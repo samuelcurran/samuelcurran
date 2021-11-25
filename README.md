@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuelcurran
 - 👀 I’m interested in IaC, DevOps, Automation
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Go
+- 💞️ I’m looking to collaborate on Terraform Providers
 - 📫 How to reach me ...
 
 <!---
