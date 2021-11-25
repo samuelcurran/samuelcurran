@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samuelcurran
+- 👋 Hi, I’m Sam!
 - 👀 I’m interested in IaC, DevOps, Automation
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Terraform Providers
